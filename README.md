@@ -13,7 +13,7 @@ Maybe I could say it through a story
 
 ---
 
-Once time I fell asleep at my desk, and when I woke up a strange script had appeared in my filesystem. So I ran it...
+Once time I fell asleep at my desk, and when I woke up a strange script had appeared in my filesystem. So I look at it...
 
 ```bash
 ale@earth$ python3 -Wignore -m trace --trace poem.py | perl -pe 's/^.*?://' | sed '1d;$d'
