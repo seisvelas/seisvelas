@@ -40,4 +40,17 @@ for every,four_am in (('my', 'life'),):
 # I'm fast asleep
 ```
 
-Maybe I did write it actually. Am I the author of my memories? Anyway, welcome to my GitHub.
+Maybe I did write it actually. Am I the author of my memories? Oh! The words I wanted to say. Yeah, narrative communication didn't help much, did it. Let's try this:
+
+```ipython
+In [2]: import hashlib                                                          
+
+In [3]: hashlib.md5(three_words.encode()).hexdigest() 
+   ...:                                                                         
+Out[3]: 'e4f58a805a6e1fd0f6bef58c86f9ceb3'
+
+```
+  
+  
+  
+## Anyway, welcome to my GitHub.
