@@ -1,5 +1,7 @@
 I am a thousand line bash script  
-if you just forgot three commands  
+if you just forgot three commands.  
+I am a mute actor  
+miming only the words I'm brave enough to sign  
 so when Othello tells Desdemona that he -  
 but no, the lines are ripped off the script.  
 So maybe I can't tell you in English how I feel
