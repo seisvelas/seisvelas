@@ -1,4 +1,4 @@
-I am a thousand line bash script  
+I am a thousand line shell script  
 if you just forgot three commands.  
 I am a mute actor  
 miming only the words I'm brave enough to sign  
