@@ -3,7 +3,7 @@ if you just forgot three commands.
 I am a mute actor  
 miming only the words I'm brave enough to sign  
 so when Othello tells Desdemona that he -  
-but no, the lines are ripped off the script.  
+but no, the lines are ripped off the page.  
 So maybe I can't tell you in English how I feel
 Do you speak Catalán?
 
